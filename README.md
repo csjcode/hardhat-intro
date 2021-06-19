@@ -17,7 +17,7 @@ Add:
 
 to hardhat.config.js
 
-continue: https://hardhat.org/tutorial/writing-and-compiling-contracts.html
+continue: hardhat.org/tutorial/writing-and-compiling-contracts.html
 
 
 
