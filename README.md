@@ -19,5 +19,7 @@ to hardhat.config.js
 
 continue: hardhat.org/tutorial/writing-and-compiling-contracts.html
 
+"print logging messages and contract variables calling console.log() from your Solidity code. To use it you have to import Hardhat'sconsole.log from your contract code."
 
+`import "hardhat/console.sol";`
 
